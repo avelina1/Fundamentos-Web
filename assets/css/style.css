@@ -1,4 +1,7 @@
 /*Estilos da página index.html*/
+body {
+    background-color:rgb(0, 141, 42);
+}
 .center {
     text-align: center;
 }
@@ -37,7 +40,7 @@
 }
 
 .wh{
-    width: 300;
+    width: 300px;
     height: 300px;
 }
 
